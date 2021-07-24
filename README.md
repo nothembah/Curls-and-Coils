@@ -17,7 +17,7 @@ Project is created with:
 - Python
 
 ## Screenshots
-![Twitter profile page](https://user-images.githubusercontent.com/74840172/126871946-f369c513-f826-467e-8873-01aa2498ee05.png)
+![IMG_20210724_163815](https://user-images.githubusercontent.com/74840172/126872047-b335d011-1fb9-41ce-8873-403eb9821ae1.png)
 
 ## Author
 :bust_in_silhouette: **Nothemba Hlongwa**
