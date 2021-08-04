@@ -23,11 +23,7 @@ for tweet in tweepy.Cursor(api.search, search).items(num_of_tweets):
     try:
         tweet.retweet()
         tweet.favorite()
-        tweetId = tweet.user.id                
-        username = tweet.user.screen_name                
-        api.update_status("@" + username + " " + phrase, in_reply_to_status_id = tweetId)
         print('Retweet and Favorite')
-        print ("Replied with " + phrase)
         time.sleep(0)
     except tweepy.TweepError as e:
             print(e.reason)
