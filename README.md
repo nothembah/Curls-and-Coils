@@ -10,7 +10,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Info
-This project is a simple twitter bot that retweets, likes and replies to tweets with specific keywords. This was developed for learning purposes and to demonstrate my skills with the included programming languages in website form.
+This project is a simple twitter bot that retweets and likes tweets with specific keywords. This was developed for learning purposes and to demonstrate my skills with the included programming language.
 
 ## Technologies
 Project is created with:
